@@ -1,4 +1,4 @@
-package com.knoldus
+package com.knoldus.Calculator
 
 import org.scalatest.flatspec.AnyFlatSpec
 
